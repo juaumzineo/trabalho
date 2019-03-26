@@ -1,0 +1,54 @@
+body {
+	background-color: lightgrey;
+}
+
+#conteudo {
+	background-color: white;
+	text-align: center;
+	font-family: verdana;
+	margin: 3cm;
+}
+
+p {
+	margin: 1cm;
+}
+
+h1 {
+	text-align: center;
+	font-family: Tangerine;
+	font-size: 50px;
+	text-shadow: 4px 4px 4px #aaa;
+}
+
+#header {
+	background-color: grey;
+	padding: 0px;
+}
+
+#lista {
+	background-color: white;
+	font-family: verdana;
+	margin: 3cm;
+	float: left;
+}
+
+ol {
+	margin: 1cm;
+}
+
+#tabela {
+	background-color: white;
+	font-family: verdana;
+	margin: 3cm;
+	float: right;
+}
+
+caption {
+	background-color: white;
+	font-family: Tangerine;
+	font-size: 36px;
+	font-weight: bold;
+	border-radius: 5px;
+	color: red;
+	text-shadow: 4px 4px 4px #aaa;
+}
